@@ -17,6 +17,8 @@
 		
 	echo 'cod nou din site direct';
 
+	echo 'BLA BLA BLA';
+
 
 	?>
 
