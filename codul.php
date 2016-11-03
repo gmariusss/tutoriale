@@ -14,6 +14,8 @@
 	echo $username . "<br>";
 	echo $password . "<br>";
 	}
+		
+	echo 'cod nou din site direct';
 
 
 	?>
